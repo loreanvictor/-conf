@@ -1,2 +1,2 @@
-# -conf
+# µconf
 neatly mutate config
